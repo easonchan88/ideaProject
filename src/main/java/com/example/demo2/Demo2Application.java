@@ -10,7 +10,7 @@ public class Demo2Application {
 		SpringApplication.run(Demo2Application.class, args);
 		System.out.println("version1.1");
 		System.out.println("version1.2");
-		System.out.println("version1.4");
+		System.out.println("version1.3");
 	}
 
 }
